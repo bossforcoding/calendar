@@ -1,0 +1,8 @@
+ch\supsi\calendar\backend\models\Day.class
+ch\supsi\calendar\backend\repositories\Repository.class
+ch\supsi\calendar\backend\controllers\Controllers.class
+ch\supsi\calendar\backend\services\Service.class
+ch\supsi\calendar\backend\services\ServiceInterface.class
+ch\supsi\calendar\backend\controllers\ControllersInterface.class
+ch\supsi\calendar\backend\models\CalEvent.class
+ch\supsi\calendar\backend\models\EventType.class
